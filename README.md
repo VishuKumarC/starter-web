@@ -16,6 +16,8 @@ Deployment can be on any web server or local file system
 
 ## How to Contribute
 
+Please fork this Repository and issue PR for review
+
 ## CopyRight
 
 2020 Git Training
