@@ -15,3 +15,7 @@ Sample website with plenty of files for demos of git commands
 Deployment can be on any web server or local file system
 
 ## How to Contribute
+
+## CopyRight
+
+2020 Git Training
