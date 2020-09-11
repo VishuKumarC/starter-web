@@ -2,7 +2,7 @@
 
 This repository contains a simple website Project for showing how Git and GitHub work.
 
-Adding a line of rebase
+Adding a line of rebase, more changes from feature branch
 
 ## Introduction
 
