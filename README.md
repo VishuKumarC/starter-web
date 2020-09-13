@@ -22,4 +22,4 @@ Please fork this Repository and issue PR for review
 
 ## CopyRight
 
-2020 Git Training
+2020 Git Training. All rights reserved.
