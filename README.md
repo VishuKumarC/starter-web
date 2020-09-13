@@ -2,7 +2,8 @@
 
 This repository contains a simple website Project for showing how Git and GitHub work.
 
-Adding a line of rebase, more changes from feature branch
+Adding a line of rebase, more changes from feature branch.
+Update for emergency fix after stash
 
 ## Introduction
 
